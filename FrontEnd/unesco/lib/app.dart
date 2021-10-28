@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../routeGenerator.dart';
+import 'routeGenerator.dart';
 
 
 class App extends StatefulWidget {

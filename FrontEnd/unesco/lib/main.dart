@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unesco/screens/app.dart';
+import 'package:unesco/app.dart';
 
 
 void main() {
